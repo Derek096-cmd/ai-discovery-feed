@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+collection-status.txt
+data/*.tmp
