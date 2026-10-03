@@ -1,114 +1,114 @@
 {
   "schema_version": 1,
   "source": "github-trending",
-  "generated_at": "2026-10-03T13:21:11.829286+00:00",
+  "generated_at": "2026-10-03T19:12:00.765843+00:00",
   "periods": {
     "daily": {
       "source_url": "https://github.com/trending?since=daily",
-      "attempted_at": "2026-10-03T13:21:11.829286+00:00",
+      "attempted_at": "2026-10-03T19:12:00.765843+00:00",
       "status": "completed",
-      "fetched_at": "2026-10-03T13:21:11.829286+00:00",
+      "fetched_at": "2026-10-03T19:12:00.765843+00:00",
       "items": [
         {
           "repo": "DietrichGebert/ponytail",
           "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-          "stars": 152510,
-          "forks": 8184,
+          "stars": 153055,
+          "forks": 8207,
           "rank": 1,
           "period_stars": 1289
         },
         {
           "repo": "pbakaus/impeccable",
           "description": "The design language that makes your AI harness better at design.",
-          "stars": 74734,
-          "forks": 4495,
+          "stars": 75067,
+          "forks": 4506,
           "rank": 2,
           "period_stars": 705
         },
         {
           "repo": "affaan-m/ECC",
           "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "stars": 271831,
-          "forks": 40598,
+          "stars": 272077,
+          "forks": 40631,
           "rank": 3,
-          "period_stars": 578
+          "period_stars": 954
         },
         {
           "repo": "Effect-TS/effect",
           "description": "Build production-ready applications in TypeScript",
-          "stars": 16701,
-          "forks": 810,
+          "stars": 16762,
+          "forks": 811,
           "rank": 4,
           "period_stars": 302
         },
         {
           "repo": "JuliusBrussee/caveman",
           "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-          "stars": 109335,
-          "forks": 6324,
+          "stars": 109451,
+          "forks": 6329,
           "rank": 5,
           "period_stars": 505
         },
         {
           "repo": "Panniantong/Agent-Reach",
           "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-          "stars": 89397,
-          "forks": 7866,
+          "stars": 89641,
+          "forks": 7880,
           "rank": 6,
           "period_stars": 1683
         },
         {
           "repo": "pingdotgg/t3code",
           "description": "",
-          "stars": 24441,
-          "forks": 6388,
+          "stars": 24573,
+          "forks": 6412,
           "rank": 7,
           "period_stars": 251
         },
         {
           "repo": "thedotmack/claude-mem",
           "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-          "stars": 95285,
-          "forks": 8440,
+          "stars": 95459,
+          "forks": 8452,
           "rank": 8,
-          "period_stars": 115
+          "period_stars": 218
         },
         {
           "repo": "cloudflare/cloudflare-os",
           "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
-          "stars": 10410,
-          "forks": 1279,
+          "stars": 10510,
+          "forks": 1283,
           "rank": 9,
           "period_stars": 84
         },
         {
           "repo": "addyosmani/agent-skills",
           "description": "Production-grade engineering skills for AI coding agents.",
-          "stars": 100695,
-          "forks": 10582,
+          "stars": 100785,
+          "forks": 10589,
           "rank": 10,
-          "period_stars": 189
+          "period_stars": 305
         },
         {
           "repo": "obra/superpowers",
           "description": "An agentic skills framework & software development methodology that works.",
-          "stars": 294714,
-          "forks": 26338,
+          "stars": 294838,
+          "forks": 26350,
           "rank": 11,
           "period_stars": 578
         },
         {
           "repo": "mattpocock/skills",
           "description": "Skills for Real Engineers. Straight from my .agents directory.",
-          "stars": 275065,
-          "forks": 23085,
+          "stars": 275259,
+          "forks": 23098,
           "rank": 12,
           "period_stars": 750
         },
         {
           "repo": "mksglu/context-mode",
           "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-          "stars": 25171,
+          "stars": 25213,
           "forks": 1805,
           "rank": 13,
           "period_stars": 256
@@ -116,15 +116,15 @@
         {
           "repo": "earendil-works/pi",
           "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-          "stars": 111977,
-          "forks": 14203,
+          "stars": 112086,
+          "forks": 14221,
           "rank": 14,
           "period_stars": 408
         },
         {
           "repo": "getsentry/sentry",
           "description": "Developer-first error tracking and performance monitoring",
-          "stars": 45124,
+          "stars": 45173,
           "forks": 4896,
           "rank": 15,
           "period_stars": 211
@@ -132,32 +132,32 @@
         {
           "repo": "anthropics/claude-code",
           "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-          "stars": 149058,
-          "forks": 25291,
+          "stars": 149152,
+          "forks": 25318,
           "rank": 16,
           "period_stars": 127
         },
         {
           "repo": "jamwithai/production-agentic-rag-course",
           "description": "",
-          "stars": 9292,
-          "forks": 2058,
+          "stars": 9364,
+          "forks": 2066,
           "rank": 17,
           "period_stars": 192
         },
         {
           "repo": "meituan-longcat/LongCat-Video",
           "description": "",
-          "stars": 8612,
-          "forks": 1518,
+          "stars": 8692,
+          "forks": 1522,
           "rank": 18,
           "period_stars": 43
         },
         {
           "repo": "OpenCut-app/OpenCut",
           "description": "The open-source CapCut alternative",
-          "stars": 91370,
-          "forks": 9041,
+          "stars": 91520,
+          "forks": 9054,
           "rank": 19,
           "period_stars": 234
         }
@@ -165,151 +165,151 @@
     },
     "weekly": {
       "source_url": "https://github.com/trending?since=weekly",
-      "attempted_at": "2026-10-03T13:21:11.829286+00:00",
+      "attempted_at": "2026-10-03T19:12:00.765843+00:00",
       "status": "completed",
-      "fetched_at": "2026-10-03T13:21:11.829286+00:00",
+      "fetched_at": "2026-10-03T19:12:00.765843+00:00",
       "items": [
         {
           "repo": "paperclipai/paperclip",
           "description": "The open-source app everyone uses to manage agents at work",
-          "stars": 96549,
-          "forks": 16361,
+          "stars": 96666,
+          "forks": 16376,
           "rank": 1,
           "period_stars": 12825
         },
         {
           "repo": "vectorize-io/hindsight",
           "description": "Hindsight: Agent Memory That Learns",
-          "stars": 44910,
-          "forks": 5887,
+          "stars": 45011,
+          "forks": 5891,
           "rank": 2,
           "period_stars": 16183
         },
         {
           "repo": "debpalash/VoiceStudio",
           "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-          "stars": 52271,
-          "forks": 5833,
+          "stars": 52462,
+          "forks": 5850,
           "rank": 3,
           "period_stars": 16475
         },
         {
           "repo": "pbakaus/impeccable",
           "description": "The design language that makes your AI harness better at design.",
-          "stars": 74734,
-          "forks": 4495,
+          "stars": 75067,
+          "forks": 4506,
           "rank": 4,
           "period_stars": 3124
         },
         {
           "repo": "rohitg00/ai-engineering-from-scratch",
           "description": "Learn it. Build it. Ship it for others.",
-          "stars": 62883,
-          "forks": 10749,
+          "stars": 63029,
+          "forks": 10782,
           "rank": 5,
           "period_stars": 5600
         },
         {
           "repo": "heygen-com/hyperframes",
           "description": "Write HTML. Render video. Built for agents.",
-          "stars": 56140,
-          "forks": 5053,
+          "stars": 56246,
+          "forks": 5058,
           "rank": 6,
           "period_stars": 2661
         },
         {
           "repo": "vercel/next.js",
           "description": "The React Framework",
-          "stars": 143044,
-          "forks": 33719,
+          "stars": 143064,
+          "forks": 33734,
           "rank": 7,
           "period_stars": 658
         },
         {
           "repo": "Effect-TS/effect",
           "description": "Build production-ready applications in TypeScript",
-          "stars": 16701,
-          "forks": 810,
+          "stars": 16762,
+          "forks": 811,
           "rank": 8,
           "period_stars": 466
         },
         {
           "repo": "alirezarezvani/claude-skills",
           "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-          "stars": 27412,
-          "forks": 3864,
+          "stars": 27454,
+          "forks": 3869,
           "rank": 9,
           "period_stars": 832
         },
         {
           "repo": "flutter/flutter",
           "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-          "stars": 179285,
-          "forks": 32867,
+          "stars": 179297,
+          "forks": 32895,
           "rank": 10,
           "period_stars": 228
         },
         {
           "repo": "Panniantong/Agent-Reach",
           "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-          "stars": 89397,
-          "forks": 7866,
+          "stars": 89641,
+          "forks": 7880,
           "rank": 11,
           "period_stars": 3959
         },
         {
           "repo": "TencentCloud/Octop",
           "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-          "stars": 6505,
-          "forks": 801,
+          "stars": 6554,
+          "forks": 810,
           "rank": 12,
           "period_stars": 1425
         },
         {
           "repo": "tile-ai/tilelang",
           "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-          "stars": 8280,
-          "forks": 835,
+          "stars": 8283,
+          "forks": 834,
           "rank": 13,
           "period_stars": 732
         },
         {
           "repo": "longbridge/gpui-kit",
           "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-          "stars": 15771,
-          "forks": 975,
+          "stars": 15808,
+          "forks": 973,
           "rank": 14,
           "period_stars": 877
         },
         {
           "repo": "pytorch/pytorch",
           "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-          "stars": 103647,
-          "forks": 31175,
+          "stars": 103667,
+          "forks": 31201,
           "rank": 15,
           "period_stars": 369
         },
         {
           "repo": "harry0703/MoneyPrinterTurbo",
           "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-          "stars": 128188,
-          "forks": 20053,
+          "stars": 128230,
+          "forks": 20061,
           "rank": 16,
           "period_stars": 2533
         },
         {
           "repo": "pablostanley/yoinks",
           "description": "yoink any video from your terminal. no shady ads.",
-          "stars": 3706,
-          "forks": 323,
+          "stars": 3784,
+          "forks": 333,
           "rank": 17,
           "period_stars": 1415
         },
         {
           "repo": "HunxByts/GhostTrack",
           "description": "Useful tool to track location or mobile number",
-          "stars": 16775,
-          "forks": 2294,
+          "stars": 16813,
+          "forks": 2299,
           "rank": 18,
           "period_stars": 1536
         }
@@ -317,54 +317,54 @@
     },
     "monthly": {
       "source_url": "https://github.com/trending?since=monthly",
-      "attempted_at": "2026-10-03T13:21:11.829286+00:00",
+      "attempted_at": "2026-10-03T19:12:00.765843+00:00",
       "status": "completed",
-      "fetched_at": "2026-10-03T13:21:11.829286+00:00",
+      "fetched_at": "2026-10-03T19:12:00.765843+00:00",
       "items": [
         {
           "repo": "bilawalsidhu/gods-eye-view",
           "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-          "stars": 46812,
-          "forks": 9555,
+          "stars": 46953,
+          "forks": 9589,
           "rank": 1,
           "period_stars": 31110
         },
         {
           "repo": "alibaba/open-code-review",
           "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-          "stars": 43444,
-          "forks": 3136,
+          "stars": 43491,
+          "forks": 3140,
           "rank": 2,
           "period_stars": 21821
         },
         {
           "repo": "affaan-m/ECC",
           "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "stars": 271831,
-          "forks": 40598,
+          "stars": 272077,
+          "forks": 40631,
           "rank": 3,
           "period_stars": 26490
         },
         {
           "repo": "ayghri/i-have-adhd",
           "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-          "stars": 53070,
-          "forks": 3054,
+          "stars": 53146,
+          "forks": 3058,
           "rank": 4,
           "period_stars": 26537
         },
         {
           "repo": "Tencent/WeKnora",
           "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-          "stars": 31840,
-          "forks": 4251,
+          "stars": 31876,
+          "forks": 4253,
           "rank": 5,
           "period_stars": 10794
         },
         {
           "repo": "mksglu/context-mode",
           "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-          "stars": 25171,
+          "stars": 25213,
           "forks": 1805,
           "rank": 6,
           "period_stars": 4728
@@ -372,55 +372,55 @@
         {
           "repo": "anthropics/financial-services",
           "description": "",
-          "stars": 38608,
-          "forks": 5542,
+          "stars": 38625,
+          "forks": 5545,
           "rank": 7,
           "period_stars": 3991
         },
         {
           "repo": "paperclipai/paperclip",
           "description": "The open-source app everyone uses to manage agents at work",
-          "stars": 96549,
-          "forks": 16361,
+          "stars": 96666,
+          "forks": 16376,
           "rank": 8,
           "period_stars": 16583
         },
         {
           "repo": "tt-a1i/archify",
           "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-          "stars": 76519,
-          "forks": 5155,
+          "stars": 76675,
+          "forks": 5167,
           "rank": 9,
           "period_stars": 33363
         },
         {
           "repo": "vectorize-io/hindsight",
           "description": "Hindsight: Agent Memory That Learns",
-          "stars": 44910,
-          "forks": 5887,
+          "stars": 45011,
+          "forks": 5891,
           "rank": 10,
           "period_stars": 22756
         },
         {
           "repo": "heygen-com/hyperframes",
           "description": "Write HTML. Render video. Built for agents.",
-          "stars": 56140,
-          "forks": 5053,
+          "stars": 56246,
+          "forks": 5058,
           "rank": 11,
           "period_stars": 12185
         },
         {
           "repo": "anthropics/claude-code",
           "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-          "stars": 149058,
-          "forks": 25291,
+          "stars": 149152,
+          "forks": 25318,
           "rank": 12,
           "period_stars": 5832
         },
         {
           "repo": "agent-substrate/substrate",
           "description": "Agent Substrate: the core system",
-          "stars": 4172,
+          "stars": 4195,
           "forks": 496,
           "rank": 13,
           "period_stars": 2453
@@ -428,23 +428,23 @@
         {
           "repo": "DietrichGebert/ponytail",
           "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-          "stars": 152510,
-          "forks": 8184,
+          "stars": 153055,
+          "forks": 8207,
           "rank": 14,
           "period_stars": 31213
         },
         {
           "repo": "TencentCloud/Octop",
           "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-          "stars": 6505,
-          "forks": 801,
+          "stars": 6554,
+          "forks": 810,
           "rank": 15,
           "period_stars": 5017
         },
         {
           "repo": "humanlayer/skills",
           "description": "",
-          "stars": 4856,
+          "stars": 4873,
           "forks": 156,
           "rank": 16,
           "period_stars": 4217
@@ -452,56 +452,56 @@
         {
           "repo": "NVIDIA/OpenShell",
           "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-          "stars": 14598,
-          "forks": 1672,
+          "stars": 14639,
+          "forks": 1675,
           "rank": 17,
           "period_stars": 5918
         },
         {
           "repo": "trycua/cua",
           "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-          "stars": 27892,
-          "forks": 1968,
+          "stars": 27926,
+          "forks": 1973,
           "rank": 18,
           "period_stars": 5762
         },
         {
           "repo": "cursor/plugins",
           "description": "Cursor plugin specification and official plugins",
-          "stars": 9603,
-          "forks": 907,
+          "stars": 9635,
+          "forks": 910,
           "rank": 19,
           "period_stars": 2992
         },
         {
           "repo": "anthropics/knowledge-work-plugins",
           "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-          "stars": 26016,
-          "forks": 3052,
+          "stars": 26024,
+          "forks": 3054,
           "rank": 20,
           "period_stars": 2238
         },
         {
           "repo": "max-sixty/worktrunk",
           "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-          "stars": 8707,
-          "forks": 312,
+          "stars": 8726,
+          "forks": 313,
           "rank": 21,
           "period_stars": 1950
         },
         {
           "repo": "tashfeenahmed/freellmapi",
           "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-          "stars": 30281,
-          "forks": 4244,
+          "stars": 30360,
+          "forks": 4255,
           "rank": 22,
           "period_stars": 6530
         },
         {
           "repo": "NVIDIA/SkillSpector",
           "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-          "stars": 19199,
-          "forks": 1674,
+          "stars": 19240,
+          "forks": 1681,
           "rank": 23,
           "period_stars": 3495
         }
