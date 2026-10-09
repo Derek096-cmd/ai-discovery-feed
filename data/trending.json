@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "source": "github-trending",
-  "generated_at": "2026-10-08T21:17:19.598457+00:00",
+  "generated_at": "2026-10-09T06:03:47.838133+00:00",
   "periods": {
     "daily": {
       "source_url": "https://github.com/trending?since=daily",
-      "attempted_at": "2026-10-08T21:17:19.598457+00:00",
-      "status": "completed",
+      "attempted_at": "2026-10-09T06:03:47.838133+00:00",
+      "status": "failed",
       "fetched_at": "2026-10-08T21:17:19.598457+00:00",
       "items": [
         {
@@ -85,8 +85,8 @@
     },
     "weekly": {
       "source_url": "https://github.com/trending?since=weekly",
-      "attempted_at": "2026-10-08T21:17:19.598457+00:00",
-      "status": "completed",
+      "attempted_at": "2026-10-09T06:03:47.838133+00:00",
+      "status": "failed",
       "fetched_at": "2026-10-08T21:17:19.598457+00:00",
       "items": [
         {
@@ -181,8 +181,8 @@
     },
     "monthly": {
       "source_url": "https://github.com/trending?since=monthly",
-      "attempted_at": "2026-10-08T21:17:19.598457+00:00",
-      "status": "completed",
+      "attempted_at": "2026-10-09T06:03:47.838133+00:00",
+      "status": "failed",
       "fetched_at": "2026-10-08T21:17:19.598457+00:00",
       "items": [
         {
