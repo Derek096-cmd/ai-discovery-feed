@@ -1,98 +1,98 @@
 {
   "schema_version": 1,
   "source": "github-trending",
-  "generated_at": "2026-10-10T20:02:33.182206+00:00",
+  "generated_at": "2026-10-10T23:31:22.415862+00:00",
   "periods": {
     "daily": {
       "source_url": "https://github.com/trending?since=daily",
-      "attempted_at": "2026-10-10T20:02:33.182206+00:00",
+      "attempted_at": "2026-10-10T23:31:22.415862+00:00",
       "status": "completed",
-      "fetched_at": "2026-10-10T20:02:33.182206+00:00",
+      "fetched_at": "2026-10-10T23:31:22.415862+00:00",
       "items": [
         {
           "repo": "morluto/rea",
           "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-          "stars": 68679,
-          "forks": 14459,
+          "stars": 71512,
+          "forks": 14982,
           "rank": 1,
           "period_stars": 25784
         },
         {
           "repo": "boykopovar/AnyPS5",
           "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-          "stars": 26118,
-          "forks": 2184,
+          "stars": 26685,
+          "forks": 2234,
           "rank": 2,
           "period_stars": 5831
         },
         {
           "repo": "storytold/artcraft",
           "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-          "stars": 13948,
-          "forks": 2185,
+          "stars": 14390,
+          "forks": 2271,
           "rank": 3,
           "period_stars": 3217
         },
         {
           "repo": "cathrynlavery/diagram-design",
-          "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-          "stars": 48757,
-          "forks": 3079,
+          "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "stars": 48899,
+          "forks": 3090,
           "rank": 4,
           "period_stars": 1189
         },
         {
           "repo": "mksglu/context-mode",
           "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-          "stars": 26233,
-          "forks": 1889,
+          "stars": 26296,
+          "forks": 1890,
           "rank": 5,
           "period_stars": 178
         },
         {
           "repo": "mattpocock/skills",
           "description": "Skills for Real Engineers. Straight from my .agents directory.",
-          "stars": 284221,
-          "forks": 23793,
+          "stars": 284416,
+          "forks": 23808,
           "rank": 6,
           "period_stars": 1737
         },
         {
           "repo": "flutter/flutter",
           "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-          "stars": 179431,
-          "forks": 33564,
+          "stars": 179500,
+          "forks": 33595,
           "rank": 7,
           "period_stars": 164
         },
         {
           "repo": "tensorflow/tensorflow",
           "description": "An Open Source Machine Learning Framework for Everyone",
-          "stars": 200684,
-          "forks": 78935,
+          "stars": 200718,
+          "forks": 78963,
           "rank": 8,
           "period_stars": 24
         },
         {
           "repo": "hugohe3/ppt-master",
           "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-          "stars": 59293,
-          "forks": 4672,
+          "stars": 59397,
+          "forks": 4678,
           "rank": 9,
           "period_stars": 515
         },
         {
           "repo": "pytorch/pytorch",
           "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-          "stars": 104106,
-          "forks": 31930,
+          "stars": 104134,
+          "forks": 31955,
           "rank": 10,
           "period_stars": 81
         },
         {
           "repo": "huggingface/transformers",
           "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-          "stars": 167161,
+          "stars": 167235,
           "forks": 34796,
           "rank": 11,
           "period_stars": 94
@@ -100,16 +100,16 @@
         {
           "repo": "anthropics/knowledge-work-plugins",
           "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-          "stars": 28727,
-          "forks": 3272,
+          "stars": 28796,
+          "forks": 3277,
           "rank": 12,
           "period_stars": 626
         },
         {
           "repo": "multica-ai/andrej-karpathy-skills",
           "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-          "stars": 218130,
-          "forks": 21977,
+          "stars": 218236,
+          "forks": 21979,
           "rank": 13,
           "period_stars": 279
         }
@@ -117,30 +117,30 @@
     },
     "weekly": {
       "source_url": "https://github.com/trending?since=weekly",
-      "attempted_at": "2026-10-10T20:02:33.182206+00:00",
+      "attempted_at": "2026-10-10T23:31:22.415862+00:00",
       "status": "completed",
-      "fetched_at": "2026-10-10T20:02:33.182206+00:00",
+      "fetched_at": "2026-10-10T23:31:22.415862+00:00",
       "items": [
         {
           "repo": "boykopovar/AnyPS5",
           "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-          "stars": 26118,
-          "forks": 2184,
+          "stars": 26685,
+          "forks": 2234,
           "rank": 1,
           "period_stars": 15539
         },
         {
           "repo": "mattpocock/skills",
           "description": "Skills for Real Engineers. Straight from my .agents directory.",
-          "stars": 284221,
-          "forks": 23793,
+          "stars": 284416,
+          "forks": 23808,
           "rank": 2,
           "period_stars": 8156
         },
         {
           "repo": "EpicGames/raddebugger",
           "description": "A native, user-mode, multi-process, graphical debugger.",
-          "stars": 8323,
+          "stars": 8327,
           "forks": 403,
           "rank": 3,
           "period_stars": 654
@@ -148,63 +148,63 @@
         {
           "repo": "thedotmack/claude-mem",
           "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-          "stars": 99183,
-          "forks": 8687,
+          "stars": 99220,
+          "forks": 8692,
           "rank": 4,
           "period_stars": 3850
         },
         {
           "repo": "heygen-com/hyperframes",
           "description": "Write HTML. Render video. Built for agents.",
-          "stars": 60287,
-          "forks": 5383,
+          "stars": 60344,
+          "forks": 5389,
           "rank": 5,
           "period_stars": 4003
         },
         {
           "repo": "mvschwarz/openrig",
           "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-          "stars": 6694,
-          "forks": 494,
+          "stars": 6727,
+          "forks": 497,
           "rank": 6,
           "period_stars": 2338
         },
         {
           "repo": "cursor/plugins",
           "description": "Cursor plugin specification and official plugins",
-          "stars": 10732,
-          "forks": 1023,
+          "stars": 10752,
+          "forks": 1025,
           "rank": 7,
           "period_stars": 1125
         },
         {
           "repo": "earthtojake/text-to-cad",
           "description": "Give your agent CAD superpowers.",
-          "stars": 18956,
-          "forks": 1869,
+          "stars": 18983,
+          "forks": 1872,
           "rank": 8,
           "period_stars": 2125
         },
         {
           "repo": "flutter/flutter",
           "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-          "stars": 179431,
-          "forks": 33564,
+          "stars": 179501,
+          "forks": 33595,
           "rank": 9,
           "period_stars": 259
         },
         {
           "repo": "pingdotgg/t3code",
           "description": "",
-          "stars": 26785,
-          "forks": 7015,
+          "stars": 26810,
+          "forks": 7028,
           "rank": 10,
           "period_stars": 2379
         },
         {
           "repo": "ranxianglei/billion-context",
           "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
-          "stars": 767,
+          "stars": 774,
           "forks": 74,
           "rank": 11,
           "period_stars": 246
@@ -212,16 +212,16 @@
         {
           "repo": "DuarteSantos8/openGym",
           "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-          "stars": 9147,
-          "forks": 1136,
+          "stars": 9222,
+          "forks": 1144,
           "rank": 12,
           "period_stars": 6749
         },
         {
           "repo": "tester-army/e2e",
           "description": "Next generation e2e testing framework for web and mobile apps.",
-          "stars": 8675,
-          "forks": 421,
+          "stars": 8713,
+          "forks": 422,
           "rank": 13,
           "period_stars": 6566
         }
@@ -229,8 +229,8 @@
     },
     "monthly": {
       "source_url": "https://github.com/trending?since=monthly",
-      "attempted_at": "2026-10-10T20:02:33.182206+00:00",
-      "status": "completed",
+      "attempted_at": "2026-10-10T23:31:22.415862+00:00",
+      "status": "failed",
       "fetched_at": "2026-10-10T20:02:33.182206+00:00",
       "items": [
         {
