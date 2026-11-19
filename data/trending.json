@@ -1,139 +1,139 @@
 {
   "schema_version": 1,
   "source": "github-trending",
-  "generated_at": "2026-11-19T12:57:53.544083+00:00",
+  "generated_at": "2026-11-19T23:01:38.790167+00:00",
   "periods": {
     "daily": {
       "source_url": "https://github.com/trending?since=daily",
-      "attempted_at": "2026-11-19T12:57:53.544083+00:00",
+      "attempted_at": "2026-11-19T23:01:38.790167+00:00",
       "status": "completed",
-      "fetched_at": "2026-11-19T12:57:53.544083+00:00",
+      "fetched_at": "2026-11-19T23:01:38.790167+00:00",
       "items": [
         {
           "repo": "elementalsouls/Claude-BugHunter",
           "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-          "stars": 11774,
-          "forks": 1549,
+          "stars": 12440,
+          "forks": 1585,
           "rank": 1,
           "period_stars": 1353
         },
         {
           "repo": "obra/superpowers",
           "description": "An agentic skills framework & software development methodology that works.",
-          "stars": 321704,
-          "forks": 28598,
+          "stars": 322037,
+          "forks": 28626,
           "rank": 2,
           "period_stars": 2029
         },
         {
           "repo": "HKUDS/CLI-Anything",
           "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-          "stars": 60240,
-          "forks": 5463,
+          "stars": 60514,
+          "forks": 5490,
           "rank": 3,
           "period_stars": 899
         },
         {
           "repo": "jingyaogong/minimind",
           "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
-          "stars": 66642,
-          "forks": 8756,
+          "stars": 66827,
+          "forks": 8780,
           "rank": 4,
-          "period_stars": 687
+          "period_stars": 301
         },
         {
           "repo": "cursor/plugins",
           "description": "Cursor plugin specification and official plugins",
-          "stars": 17426,
-          "forks": 1922,
+          "stars": 17537,
+          "forks": 1929,
           "rank": 5,
           "period_stars": 383
         },
         {
           "repo": "firecrawl/firecrawl",
           "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
-          "stars": 203602,
-          "forks": 10666,
+          "stars": 204142,
+          "forks": 10696,
           "rank": 6,
           "period_stars": 795
         },
         {
           "repo": "nginx/nginx",
           "description": "The official NGINX Open Source repository.",
-          "stars": 32231,
-          "forks": 8407,
+          "stars": 32313,
+          "forks": 8413,
           "rank": 7,
           "period_stars": 66
         },
         {
           "repo": "openvinotoolkit/openvino",
           "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-          "stars": 11460,
-          "forks": 3611,
+          "stars": 11547,
+          "forks": 3621,
           "rank": 8,
           "period_stars": 246
         },
         {
           "repo": "cathrynlavery/diagram-design",
           "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-          "stars": 68370,
-          "forks": 4601,
+          "stars": 68598,
+          "forks": 4614,
           "rank": 9,
-          "period_stars": 332
+          "period_stars": 402
         },
         {
           "repo": "mvanhorn/last30days-skill",
           "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-          "stars": 70520,
-          "forks": 6278,
+          "stars": 70760,
+          "forks": 6305,
           "rank": 10,
           "period_stars": 952
         },
         {
           "repo": "google-labs-code/stitch-skills",
           "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-          "stars": 10575,
-          "forks": 1377,
+          "stars": 10696,
+          "forks": 1387,
           "rank": 11,
           "period_stars": 303
         },
         {
           "repo": "mjmirza/app-store-compliance",
           "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-          "stars": 1513,
-          "forks": 114,
+          "stars": 1789,
+          "forks": 124,
           "rank": 12,
           "period_stars": 542
         },
         {
           "repo": "Tracer-Cloud/opensre",
           "description": "The open-source agent for CI/CD reliability.",
-          "stars": 12915,
-          "forks": 1890,
+          "stars": 13096,
+          "forks": 1903,
           "rank": 13,
           "period_stars": 25
         },
         {
           "repo": "toeverything/AFFiNE",
           "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-          "stars": 74822,
-          "forks": 5545,
+          "stars": 75136,
+          "forks": 5561,
           "rank": 14,
           "period_stars": 170
         },
         {
           "repo": "XiaoYouChR/Ghost-Downloader-3",
           "description": "The only downloader you need. 下载器的集大成者。",
-          "stars": 12304,
-          "forks": 778,
+          "stars": 12650,
+          "forks": 787,
           "rank": 15,
-          "period_stars": 432
+          "period_stars": 449
         },
         {
           "repo": "zhouxiaoka/autoclip",
           "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
-          "stars": 10901,
-          "forks": 1918,
+          "stars": 11178,
+          "forks": 1937,
           "rank": 16,
           "period_stars": 110
         }
@@ -141,86 +141,86 @@
     },
     "weekly": {
       "source_url": "https://github.com/trending?since=weekly",
-      "attempted_at": "2026-11-19T12:57:53.544083+00:00",
+      "attempted_at": "2026-11-19T23:01:38.790167+00:00",
       "status": "completed",
-      "fetched_at": "2026-11-19T12:57:53.544083+00:00",
+      "fetched_at": "2026-11-19T23:01:38.790167+00:00",
       "items": [
         {
           "repo": "backnotprop/plannotator",
           "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-          "stars": 13579,
-          "forks": 1369,
+          "stars": 13648,
+          "forks": 1381,
           "rank": 1,
           "period_stars": 3290
         },
         {
           "repo": "google-labs-code/stitch-skills",
           "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-          "stars": 10575,
-          "forks": 1377,
+          "stars": 10696,
+          "forks": 1387,
           "rank": 2,
           "period_stars": 1567
         },
         {
           "repo": "GoogleChrome/modern-web-guidance-src",
           "description": "Keep your coding agent up to date with the latest web best practices",
-          "stars": 9007,
-          "forks": 749,
+          "stars": 9102,
+          "forks": 753,
           "rank": 3,
           "period_stars": 7257
         },
         {
           "repo": "alibaba/open-code-review",
           "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-          "stars": 54303,
-          "forks": 4495,
+          "stars": 54373,
+          "forks": 4500,
           "rank": 4,
           "period_stars": 4383
         },
         {
           "repo": "mvanhorn/last30days-skill",
           "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-          "stars": 70520,
-          "forks": 6278,
+          "stars": 70760,
+          "forks": 6305,
           "rank": 5,
           "period_stars": 2423
         },
         {
           "repo": "ChromeDevTools/chrome-devtools-mcp",
           "description": "Chrome DevTools for coding agents",
-          "stars": 58302,
-          "forks": 4882,
+          "stars": 58351,
+          "forks": 4873,
           "rank": 6,
           "period_stars": 3143
         },
         {
           "repo": "tradermonty/claude-trading-skills",
           "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-          "stars": 7167,
-          "forks": 1449,
+          "stars": 7235,
+          "forks": 1458,
           "rank": 7,
           "period_stars": 3242
         },
         {
           "repo": "ag-ui-protocol/ag-ui",
           "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-          "stars": 20560,
-          "forks": 2113,
+          "stars": 20622,
+          "forks": 2122,
           "rank": 8,
           "period_stars": 3221
         },
         {
           "repo": "meta/astryx",
           "description": "An open source design system that's fully customizable and agent ready",
-          "stars": 30782,
-          "forks": 2410,
+          "stars": 30933,
+          "forks": 2420,
           "rank": 9,
           "period_stars": 6250
         },
         {
           "repo": "pookjw/HermesEnabler",
           "description": "Enable Hermès Watch Faces on any Apple Watch devices",
-          "stars": 2224,
+          "stars": 2247,
           "forks": 189,
           "rank": 10,
           "period_stars": 1019
@@ -228,24 +228,24 @@
         {
           "repo": "we-promise/sure",
           "description": "The personal finance app for everyone (by everyone)",
-          "stars": 16617,
-          "forks": 1462,
+          "stars": 16700,
+          "forks": 1475,
           "rank": 11,
           "period_stars": 3866
         },
         {
           "repo": "dream-num/univer",
           "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-          "stars": 30414,
-          "forks": 2737,
+          "stars": 30429,
+          "forks": 2755,
           "rank": 12,
           "period_stars": 6840
         },
         {
           "repo": "kajisho5/ffmpeg-skill",
           "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
-          "stars": 8151,
-          "forks": 765,
+          "stars": 8333,
+          "forks": 775,
           "rank": 13,
           "period_stars": 2894
         }
@@ -253,143 +253,143 @@
     },
     "monthly": {
       "source_url": "https://github.com/trending?since=monthly",
-      "attempted_at": "2026-11-19T12:57:53.544083+00:00",
+      "attempted_at": "2026-11-19T23:01:38.790167+00:00",
       "status": "completed",
-      "fetched_at": "2026-11-19T12:57:53.544083+00:00",
+      "fetched_at": "2026-11-19T23:01:38.790167+00:00",
       "items": [
         {
           "repo": "Nutlope/hallmark",
           "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-          "stars": 57825,
-          "forks": 3141,
+          "stars": 58025,
+          "forks": 3158,
           "rank": 1,
           "period_stars": 27295
         },
         {
           "repo": "cloudflare/security-audit-skill",
           "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-          "stars": 75629,
-          "forks": 5081,
+          "stars": 75816,
+          "forks": 5095,
           "rank": 2,
           "period_stars": 44600
         },
         {
           "repo": "milind-soni/OpenMausBot",
           "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-          "stars": 25637,
-          "forks": 3632,
+          "stars": 25800,
+          "forks": 3654,
           "rank": 3,
           "period_stars": 20270
         },
         {
           "repo": "pingdotgg/t3code",
           "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-          "stars": 65908,
-          "forks": 11521,
+          "stars": 66366,
+          "forks": 11576,
           "rank": 4,
           "period_stars": 36872
         },
         {
           "repo": "anthropics/skills",
           "description": "Public repository for Agent Skills",
-          "stars": 197525,
-          "forks": 23132,
+          "stars": 197686,
+          "forks": 23156,
           "rank": 5,
           "period_stars": 15769
         },
         {
           "repo": "thedotmack/claude-mem",
           "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-          "stars": 118332,
-          "forks": 10292,
+          "stars": 118432,
+          "forks": 10308,
           "rank": 6,
           "period_stars": 17311
         },
         {
           "repo": "Jakeschincariol/instagram-agent-skill",
           "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
-          "stars": 7193,
-          "forks": 1398,
+          "stars": 7345,
+          "forks": 1415,
           "rank": 7,
           "period_stars": 5309
         },
         {
           "repo": "backnotprop/plannotator",
           "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-          "stars": 13579,
-          "forks": 1369,
+          "stars": 13648,
+          "forks": 1381,
           "rank": 8,
           "period_stars": 3868
         },
         {
           "repo": "HKUDS/DeepTutor",
           "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
-          "stars": 60697,
-          "forks": 7348,
+          "stars": 60797,
+          "forks": 7359,
           "rank": 9,
           "period_stars": 19065
         },
         {
           "repo": "pbakaus/impeccable",
           "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-          "stars": 113222,
-          "forks": 6746,
+          "stars": 113439,
+          "forks": 6763,
           "rank": 10,
           "period_stars": 30662
         },
         {
           "repo": "sherlock-project/sherlock",
           "description": "Hunt down social media accounts by username across social networks",
-          "stars": 114423,
-          "forks": 13146,
+          "stars": 114583,
+          "forks": 13158,
           "rank": 11,
           "period_stars": 20046
         },
         {
           "repo": "AgriciDaniel/claude-seo",
           "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
-          "stars": 30807,
-          "forks": 3833,
+          "stars": 30925,
+          "forks": 3850,
           "rank": 12,
           "period_stars": 11532
         },
         {
           "repo": "google-labs-code/stitch-skills",
           "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-          "stars": 10575,
-          "forks": 1377,
+          "stars": 10696,
+          "forks": 1387,
           "rank": 13,
           "period_stars": 1841
         },
         {
           "repo": "heygen-com/hyperframes",
           "description": "AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.",
-          "stars": 86796,
-          "forks": 8067,
+          "stars": 87023,
+          "forks": 8095,
           "rank": 14,
           "period_stars": 20375
         },
         {
           "repo": "elementalsouls/Claude-BugHunter",
           "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-          "stars": 11774,
-          "forks": 1549,
+          "stars": 12440,
+          "forks": 1585,
           "rank": 15,
           "period_stars": 5774
         },
         {
           "repo": "kajisho5/ffmpeg-skill",
           "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
-          "stars": 8151,
-          "forks": 765,
+          "stars": 8333,
+          "forks": 775,
           "rank": 16,
           "period_stars": 6030
         },
         {
           "repo": "vercel-labs/agent-browser",
           "description": "Browser automation CLI for AI agents",
-          "stars": 52786,
-          "forks": 3692,
+          "stars": 52875,
+          "forks": 3697,
           "rank": 17,
           "period_stars": 8540
         }
